@@ -1,7 +1,7 @@
 {
   "Header": {
     "title": "Odkryj Świat 3D",
-    "paragraph": "Wchodząc w erę cyfrowej rewolucji, MOVE3D przewodzi w dziedzinie druku 3D, oferując nieograniczone możliwości tworzenia. Nasze zaawansowane technologie pozwalają na realizację nawet najbardziej ambitnych projektów z precyzją i szybkością, otwierając drzwi do nowych wymiarów innowacji. Zapraszamy do odkrywania potencjału druku 3D z Move – tam, gdzie marzenia stają się rzeczywistością"
+    "paragraph": "Wchodząc w erę cyfrowej rewolucji, MOVE3D przewodzi w dziedzinie druku 3D, oferując nieograniczone możliwości tworzenia. Nasze zaawansowane technologie pozwalają na realizację nawet najbardziej ambitnych projektów z precyzją i szybkością, otwierając drzwi do nowych wymiarów innowacji. Zapraszamy do odkrywania potencjału druku 3D z Move – "
   },
   "About": {
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -69,7 +69,7 @@
     {
       "icon": "fa  fa-cubes",
       "name": "Projekty CAD",
-      "text": "Projekt CAD to proces tworzenia precyzyjnych cyfrowych modeli obiektów za pomocą oprogramowania CAD. Pozwala to na szybkie projektowanie, analizę i wizualizację produktów."
+      "text": "Projekt CAD to proces tworzenia precyzyjnych"
     },
     {
       "icon": "fa fa-cart-arrow-down",
