@@ -66,32 +66,39 @@
     }
   ],
   "Services": [
+    
     {
+      "image":"img/services/free-photo-of-mezczyzna-ludzie-kobieta-ulica.jpeg",
       "icon": "fa  fa-cubes",
-      "name": "Projekty CAD",
+      "name": "Testowa usługa",
       "text": "Projekt CAD to proces tworzenia precyzyjnych"
     },
     {
+      "image":"img/services/free-photo-of-jasny-miasto-przejscie-dla-pieszych-droga.jpeg",
       "icon": "fa fa-cart-arrow-down",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
+      "image":"img/services/free-photo-of-miasto-ludzie-lodzie-budynki.jpeg",
       "icon": "fa fa-cloud-download",
       "name": "Lorem ipsum dolor",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
+      "image":"img/services/tapety-wysokiej-rozdzielczosci-12jpg-301533122574cy6xtyowva.jpg",
       "icon": "fa fa-language",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
+      "image":"img/services/widescreen-high-resolution-nature-hd-1920x1080-wallpaper-preview (1).jpg",
       "icon": "fa fa-plane",
       "name": "Lorem ipsum dolor",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
+      "image":"img/services/widescreen-high-resolution-nature-hd-1920x1080-wallpaper-preview.jpg",
       "icon": "fa fa-pie-chart",
       "name": "Consectetur adipiscing",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."

@@ -316,6 +316,20 @@ header .intro-text {
 #services .service-desc {
   margin: 10px 10px 20px;
 }
+#services a{
+  max-width: 300px;
+  aspect-ratio: 16 / 9; /* Proporcje kontenera (np. 16:9 dla wideo) */
+  overflow: hidden; /* Ukrywa nadmiar obrazu, który wystaje poza kontener */
+  position: relative;
+}
+#services .service-img{
+  width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover; /* Dostosowuje obraz do kontenera */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /
+}
 #services h2 {
   color: #fff;
 }
