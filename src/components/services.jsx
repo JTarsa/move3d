@@ -7,8 +7,14 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Nasze usługi</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Realizujemy zarówno druk gotowych projektów, jak i tworzenie modeli
+            od podstaw. Nasze usługi są idealne dla osób i firm poszukujących
+            precyzyjnych i Wykorzystujemy różnorodne tworzywa, takie jak PLA,
+            PET-G, ABS, czy TPU (filamenty typu FLEX), co pozwala nam na
+            dostosowanie wydruków do specyficznych potrzeb naszych klientów.
+            Nasza technologia druku 3D umożliwia realizację produkcji
+            małoseryjnej, co jest idealnym rozwiązaniem dla firm, które
+            potrzebują prototypów lub krótkich serii produkcyjnych.
           </p>
         </div>
         <div className="row custom-font">

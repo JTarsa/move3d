@@ -4,7 +4,7 @@
     "paragraph": "Wchodząc w erę cyfrowej rewolucji, MOVE3D przewodzi w dziedzinie druku 3D, oferując nieograniczone możliwości tworzenia. Nasze zaawansowane technologie pozwalają na realizację nawet najbardziej ambitnych projektów z precyzją i szybkością, otwierając drzwi do nowych wymiarów innowacji. Zapraszamy do odkrywania potencjału druku 3D z Move – "
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Specjalizujemy się w druku 3D przy wykorzystaniu technologii FDM, która jest najpopularniejszą metodą przyrostowego tworzenia elementów. Dzięki jednej z najbardziej zaawansowanych drukarek dostępnych na rynku, z polem roboczym o wymiarach 256x256x256 mm, jesteśmy w stanie sprostać różnorodnym wymaganiom naszych klientów.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -68,40 +68,28 @@
   "Services": [
     
     {
-      "image":"img/services/free-photo-of-mezczyzna-ludzie-kobieta-ulica.jpeg",
+      "image":"img/services/image0.jpeg",
       "icon": "fa  fa-cubes",
-      "name": "Testowa usługa",
-      "text": "Projekt CAD to proces tworzenia precyzyjnych"
+      "name": "PLA (Polilaktyd)",
+      "text": "Popularny materiał, cechujący się twardością i kruchością. Z uwagi na niską temperaturę mięknienia (ok. 50 °C), PLA jest doskonały do tworzenia modeli, które nie będą narażone na wysokie temperatury."
     },
     {
-      "image":"img/services/free-photo-of-jasny-miasto-przejscie-dla-pieszych-droga.jpeg",
+      "image":"img/services/image1.jpeg",
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "PET-G",
+      "text": "Materiał łączący zalety PLA i ABS. Charakteryzuje się wysoką wytrzymałością, elastycznością oraz odpornością na działanie chemikaliów, promieniowanie UV i wilgoć. Idealny do zastosowań, gdzie wymagana jest większa trwałość."
     },
     {
-      "image":"img/services/free-photo-of-miasto-ludzie-lodzie-budynki.jpeg",
+      "image":"img/services/image2.jpeg",
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Filamenty FLEX (TPU)",
+      "text": "Przeznaczone do tworzenia elastycznych elementów. Materiały te są odporne na ścieranie, działanie różnych płynów eksploatacyjnych, oraz mają doskonałą spójność między warstwami. Świetnie nadają się do elementów absorbujących energię."
     },
     {
-      "image":"img/services/tapety-wysokiej-rozdzielczosci-12jpg-301533122574cy6xtyowva.jpg",
+      "image":"img/services/image3.jpeg",
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "image":"img/services/widescreen-high-resolution-nature-hd-1920x1080-wallpaper-preview (1).jpg",
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "image":"img/services/widescreen-high-resolution-nature-hd-1920x1080-wallpaper-preview.jpg",
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "ABS",
+      "text": "Wytrzymały materiał często wykorzystywany w inżynierii i technice. Charakteryzuje się wysoką odpornością na uderzenia, twardością oraz odpornością na wysokie temperatury, co czyni go idealnym do zaawansowanych zastosowań technicznych."
     }
   ],
   "Testimonials": [
