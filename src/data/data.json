@@ -4,7 +4,7 @@
     "paragraph": "Wchodząc w erę cyfrowej rewolucji, MOVE3D przewodzi w dziedzinie druku 3D, oferując nieograniczone możliwości tworzenia. Nasze zaawansowane technologie pozwalają na realizację nawet najbardziej ambitnych projektów z precyzją i szybkością, otwierając drzwi do nowych wymiarów innowacji. Zapraszamy do odkrywania potencjału druku 3D z Move – "
   },
   "About": {
-    "paragraph": "Specjalizujemy się w druku 3D przy wykorzystaniu technologii FDM, która jest najpopularniejszą metodą przyrostowego tworzenia elementów. Dzięki jednej z najbardziej zaawansowanych drukarek dostępnych na rynku, z polem roboczym o wymiarach 256x256x256 mm, jesteśmy w stanie sprostać różnorodnym wymaganiom naszych klientów.",
+    "paragraph": "Specjalizujemy się w druku 3D przy wykorzystaniu technologii FDM, która jest najpopularniejszą metodą przyrostowego tworzenia elementów. Dzięki jednej z najbardziej zaawansowanych drukarek dostępnych na rynku, z polem roboczym o wymiarach 256x256x256fdf mm, jesteśmy w stanie sprostać różnorodnym wymaganiom naszych klientów.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -66,27 +66,26 @@
     }
   ],
   "Services": [
-    
     {
-      "image":"img/services/image0.jpeg",
+      "image": "img/services/image0.jpeg",
       "icon": "fa  fa-cubes",
       "name": "PLA (Polilaktyd)",
       "text": "Popularny materiał, cechujący się twardością i kruchością. Z uwagi na niską temperaturę mięknienia (ok. 50 °C), PLA jest doskonały do tworzenia modeli, które nie będą narażone na wysokie temperatury."
     },
     {
-      "image":"img/services/image1.jpeg",
+      "image": "img/services/image1.jpeg",
       "icon": "fa fa-cart-arrow-down",
       "name": "PET-G",
       "text": "Materiał łączący zalety PLA i ABS. Charakteryzuje się wysoką wytrzymałością, elastycznością oraz odpornością na działanie chemikaliów, promieniowanie UV i wilgoć. Idealny do zastosowań, gdzie wymagana jest większa trwałość."
     },
     {
-      "image":"img/services/image2.jpeg",
+      "image": "img/services/image2.jpeg",
       "icon": "fa fa-cloud-download",
       "name": "Filamenty FLEX (TPU)",
       "text": "Przeznaczone do tworzenia elastycznych elementów. Materiały te są odporne na ścieranie, działanie różnych płynów eksploatacyjnych, oraz mają doskonałą spójność między warstwami. Świetnie nadają się do elementów absorbujących energię."
     },
     {
-      "image":"img/services/image3.jpeg",
+      "image": "img/services/image3.jpeg",
       "icon": "fa fa-language",
       "name": "ABS",
       "text": "Wytrzymały materiał często wykorzystywany w inżynierii i technice. Charakteryzuje się wysoką odpornością na uderzenia, twardością oraz odpornością na wysokie temperatury, co czyni go idealnym do zaawansowanych zastosowań technicznych."
